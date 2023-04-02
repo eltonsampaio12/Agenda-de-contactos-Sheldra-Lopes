@@ -1,0 +1,18 @@
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\bin\Debug\net6.0-windows\Agenda de contactos.exe
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\bin\Debug\net6.0-windows\Agenda de contactos.deps.json
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\bin\Debug\net6.0-windows\Agenda de contactos.runtimeconfig.json
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\bin\Debug\net6.0-windows\Agenda de contactos.dll
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\bin\Debug\net6.0-windows\Agenda de contactos.pdb
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.csproj.AssemblyReference.cache
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda_de_contactos.Form1.resources
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.csproj.GenerateResource.cache
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.AssemblyInfoInputs.cache
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.AssemblyInfo.cs
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.csproj.CoreCompileInputs.cache
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.dll
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\refint\Agenda de contactos.dll
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.pdb
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\Agenda de contactos.genruntimeconfig.cache
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\obj\Debug\net6.0-windows\ref\Agenda de contactos.dll
+C:\Users\elton\source\repos\Agenda de contactos\Agenda de contactos\bin\Debug\net6.0-windows\Form1.cs

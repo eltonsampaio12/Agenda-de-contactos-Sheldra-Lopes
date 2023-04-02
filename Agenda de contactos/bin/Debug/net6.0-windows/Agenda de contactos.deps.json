@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Agenda de contactos/1.0.0": {
+        "runtime": {
+          "Agenda de contactos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agenda de contactos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
